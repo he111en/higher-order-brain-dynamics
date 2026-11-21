@@ -15,13 +15,11 @@ The central objective is to assess whether information-theoretic measures provid
 
 ## Scientific Foundations
 
-**Empirical foundation**
-
 Pizzuti, A., Gulban, O. F., Huber, L., Peters, J. C., & Goebel, R. (2025). *In the brain of the beholder: bi-stable motion reveals mesoscopic-scale feedback modulation in V1*. Brain Structure and Function, 230, Article 47.
 
 https://doi.org/10.1007/s00429-025-02906-8
 
-Gustavo Deco and collaborators — whole-brain dynamics, functional connectivity, and computational neuroscience.
+Gustavo Deco et. al— whole-brain dynamics, functional connectivity, and computational neuroscience.
 
 Casorso et al. (2019) — Dynamic Mode Decomposition applied to fMRI.
 
