@@ -1,7 +1,7 @@
 function step11_synergy_mask(CONDITIONS, SUBJ, ATLAS_FILE, STUDY_PATH, SESS, p, OUT_PATH)
 %% STEP 11 — Binary NIfTI mask of most synergistic multiplet at k_min
 %
-% For each subject x condition:
+% For each subject x condition: 
 %   1. Runs O-information on A+B parcels (loads from saved results if available)
 %   2. Finds the most synergistic multiplet at k_min
 %   3. Creates a [360] binary vector (1 = parcel in multiplet, 0 = not)
