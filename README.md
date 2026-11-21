@@ -19,7 +19,7 @@ Pizzuti, A., Gulban, O. F., Huber, L., Peters, J. C., & Goebel, R. (2025). *In t
 
 https://doi.org/10.1007/s00429-025-02906-8
 
-Gustavo Deco et. al— whole-brain dynamics, functional connectivity, and computational neuroscience.
+Gustavo Deco's work on whole-brain dynamics and functional connectivity.
 
 Casorso et al. (2019) — Dynamic Mode Decomposition applied to fMRI.
 
